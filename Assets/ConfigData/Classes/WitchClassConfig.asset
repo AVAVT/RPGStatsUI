@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 661a755f345df46449e89b6631ec96ef, type: 3}
+  m_Name: WitchClassConfig
+  m_EditorClassIdentifier: 
+  ClassType: Witch
+  Avatar: {fileID: 21300012, guid: f8225f2e33f0c4d93ac00083386cb2c3, type: 3}
+  HP: 44
+  Atk: 11
+  Def: 17
+  Mag: 49
+  Res: 34
+  Spd: 16
+  Luk: 31
+  skills:
+  - {fileID: 11400000, guid: 1b7448cea96ae4efca90921635b104e1, type: 2}
+  - {fileID: 11400000, guid: 81e36b2022e634c0ea20e93eeb9cbd6d, type: 2}
+  - {fileID: 11400000, guid: fc7d7419bbeeb4c9daaa52203a721e00, type: 2}
+  - {fileID: 11400000, guid: bfeb805ca60f646c9a4bc483225785c4, type: 2}

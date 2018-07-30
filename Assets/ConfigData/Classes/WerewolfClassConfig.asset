@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 661a755f345df46449e89b6631ec96ef, type: 3}
+  m_Name: WerewolfClassConfig
+  m_EditorClassIdentifier: 
+  ClassType: Werewolf
+  Avatar: {fileID: 21300008, guid: f8225f2e33f0c4d93ac00083386cb2c3, type: 3}
+  HP: 89
+  Atk: 43
+  Def: 30
+  Mag: 5
+  Res: 26
+  Spd: 26
+  Luk: 16
+  skills:
+  - {fileID: 11400000, guid: 1b7448cea96ae4efca90921635b104e1, type: 2}
+  - {fileID: 11400000, guid: 81e36b2022e634c0ea20e93eeb9cbd6d, type: 2}
+  - {fileID: 11400000, guid: 4a53633b0a7f54fc6bc26817c4458c21, type: 2}
+  - {fileID: 11400000, guid: c3adbd7ab387d42ceabf3e84f9155a8e, type: 2}
+  - {fileID: 11400000, guid: bfeb805ca60f646c9a4bc483225785c4, type: 2}
